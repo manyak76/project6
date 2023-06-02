@@ -1,12 +1,12 @@
 # Проект 6. Сегментация клиентов онлайн-магазина подарков
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/manyak76/project6/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/manyak76/project6/blob/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Результаты)    
-[6. Выводы](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Выводы) 
+[1. Описание проекта](https://github.com/manyak76/project6/blob/main/README.md#Описание-проекта) 
+[2. Какой кейс решаем?](https://github.com/manyak76/project6/blob/main/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/manyak76/project6/blob/main/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/manyak76/project6/blob/main/README.md#Этапы-работы-над-проектом)  
+[5. Результаты](https://github.com/manyak76/project6/blob/main/README.md#Результаты)    
+[6. Выводы](https://github.com/manyak76/project6/blob/main/README.md#Выводы) 
 
 ### Описание проекта    
 Бизнес-задача: произвести сегментацию существующих клиентов, проинтерпретировать эти сегменты и определить стратегию взаимодействия с ними.
